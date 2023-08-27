@@ -148,3 +148,6 @@ wandb/
 *_saved_model/
 *_web_model/
 *_openvino_model/
+ultralytics/yolo/v8/detect/bluefox_2016-10-04-13-52-40_bag.mp4
+ultralytics/yolo/v8/detect/deep_sort_pytorch-20230826T053537Z-001.zip
+ultralytics/yolo/v8/detect/test3.mp4
